@@ -149,15 +149,15 @@ h1 a{
 }
 
 
-.bg-img1{background-image: url(./images/img1.jpg);}
-.bg-img2{background-image: url(./images/img2.jpg);}
-.bg-img3{background-image: url(./images/img3.jpg);}
-.bg-img4{background-image: url(./images/img4.jpg);}
-.bg-img5{background-image: url(./images/img5.jpg);}
-.bg-img6{background-image: url(./images/img6.jpg);}
-.bg-img7{background-image: url(./images/img7.jpg);}
-.bg-img8{background-image: url(./images/img8.jpg);}
-.bg-img9{background-image: url(./images/img9.jpg);}
+.bg-img1{background-image: url(https://source.unsplash.com/random/?city,night/300×300);}
+.bg-img2{background-image: url(https://source.unsplash.com/random/301×301);}
+.bg-img3{background-image: url(https://source.unsplash.com/random/309×309);}
+.bg-img4{background-image: url(https://source.unsplash.com/random/302×302);}
+.bg-img5{background-image: url(https://source.unsplash.com/random/304×304);}
+.bg-img6{background-image: url(https://source.unsplash.com/random/305×305);}
+.bg-img7{background-image: url(https://source.unsplash.com/random/306×306);}
+.bg-img8{background-image: url(https://source.unsplash.com/random/307×307);}
+.bg-img9{background-image: url(https://source.unsplash.com/random/308×308);}
 
 .bg-edit{
     background-position: center;
